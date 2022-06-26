@@ -6,4 +6,6 @@ For styling, FOnt Awesome and Hero Pattern used.
 
 The logic is written in pure JS.
 
+Integrated twitter API https://twitter.com/intent/tweet to dynamicaaly pass content and author name to tweet the quote using tweet button.
+
 LIVE : https://quote-generator-js.web.app/

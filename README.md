@@ -2,7 +2,7 @@ This mini Java Script based application is built to retreive quotes from externa
 
 The application prints random quote on load and upon button click generates random quote fetched from API
 
-For styling, FOnt Awesome and Hero Pattern used.
+For styling, Font Awesome and Hero Pattern used.
 
 The logic is written in pure JS.
 
